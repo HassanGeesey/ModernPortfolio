@@ -61,7 +61,7 @@ export const Hero: React.FC = () => {
             <div className="relative glass p-4 rounded-[4rem] transform hover:rotate-2 transition-transform duration-700">
               <div className="rounded-[3rem] overflow-hidden aspect-[3/4] border border-white/10 shadow-2xl">
                 <img
-                  src="assets\myimage.jpeg"
+                  src="https://github.com/HassanGeesey/ModernPortfolio/blob/main/assets/myimage.jpeg?raw=true"
                   alt="Portrait"
                   className="w-full h-full object-cover saturate-0 hover:saturate-100 transition-all duration-1000"
                 />
